@@ -1,5 +1,6 @@
 import { useState, useEffect } from 'react';
-import { Currency, ExchangeRateResponse } from '../types';
+import { Currency, ExchangeRateResponse } from '../types/index.js'; // إضافة .js في النهاية
+
 
 const CurrencyConverter = () => {
   const [fromCurrency, setFromCurrency] = useState<string>('USD');

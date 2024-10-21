@@ -1,5 +1,9 @@
-import CurrencyConverter from '@/components/CurrencyConverter'
-import Footer from './components/Footer';
+import CurrencyConverter from '@/components/CurrencyConverter.js'; // تغيير .tsx إلى .js
+import Footer from './components/Footer.js'; // تغيير .tsx إلى .js
+
+
+
+
 
 function App() {
   return (
