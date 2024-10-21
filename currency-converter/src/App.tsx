@@ -1,5 +1,5 @@
-import CurrencyConverter from '@/components/CurrencyConverter.js'; // تغيير .tsx إلى .js
-import Footer from './components/Footer.js'; // تغيير .tsx إلى .js
+import CurrencyConverter from '@/components/CurrencyConverter.js'; 
+import Footer from './components/Footer.js'; 
 
 
 

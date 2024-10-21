@@ -1,12 +1,12 @@
 {
   "compilerOptions": {
     "target": "esnext",
-    "module": "Node16", // تأكد من تعيينه إلى Node16
+    "module": "Node16",      
     "moduleResolution": "Node16",
     "jsx": "react-jsx",
     "allowJs": true,
     "allowImportingTsExtensions": true,
-    "noEmit": true, // أو يمكنك تعيين emitDeclarationOnly إلى true إذا كنت بحاجة لذلك
+    "noEmit": true,      
     "strict": true,
     "esModuleInterop": true,
     "skipLibCheck": true,
